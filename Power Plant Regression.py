@@ -1,5 +1,5 @@
 # By Sreevikram R
-# Using Random Forest Regression to predict electrical enery output of power plant
+# Using Random Forest Regression to predict electrical energy output of power plant
 
 # Importing the libraries
 import numpy as np
